@@ -116,10 +116,10 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements:</strong> Participants must bring a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges
-  on. They should have a few specific software packages installed (listed
-  <a href="#setup">below</a>). They are also required to abide by
+  <strong>Requirements:</strong> Participants are those selected to attend the CODATA-RDA School of Research Data Science foundation school.
+	Computers will be available for participants at the venue, but if you like you can bring your laptop with a
+  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.). Please make sure you have adecuate administrative privileges on your device to be able to install software. The specific software that needs to be installed is listed
+  <a href="#setup">below</a>). Participants should be freindly and respectful to everyone, please see our code of conduct for details.
   {% if page.carpentry == "swc" %}
   Software Carpentry's
   {% elsif page.carpentry == "dc" %}
@@ -146,10 +146,10 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   <li>Accessible restrooms are available.</li>
 </ul>
 <p>
-  Materials will be provided in advance of the workshop and
-  large-print handouts are available if needed by notifying the
-  organizers in advance.  If we can help making learning easier for
-  you (e.g. sign-language interpreters, lactation facilities) please
+  Materials can be accessed before the workshop through the links provided in the Schedule.
+</p>
+<p>If we can help making learning easier for
+  you please
   get in touch (using contact details below) and we will
   attempt to provide them.
 </p>
