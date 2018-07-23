@@ -46,7 +46,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h4>CODATA-RDA School of Research Data Science</h4>
+<h1>CODATA-RDA School of Research Data Science</h1>
 
 <h2 id="general">General Information</h2>
 
