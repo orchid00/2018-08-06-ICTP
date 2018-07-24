@@ -568,8 +568,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
         <a href="https://www.rstudio.com/products/rstudio/download/#download">RStudio IDE</a>.
       </p>
     </div>
-  <div>Once you finish installing R and Rstudio please make sure you install the package tidyverse
-	<code>install.packages("tidyverse")</code></div>
   </div>
+  <div><p>Once you finish installing R and Rstudio please make sure you install the package tidyverse
+	<code>install.packages("tidyverse")</code><p></div>
 </div> {% comment %} End of 'R' section. {% endcomment %}
 
