@@ -148,7 +148,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   <li>Accessible restrooms are available.</li>
 </ul>
 <p>
-  Materials can be accessed before the workshop through the links provided in the Schedule.
+    <strong>Materials:</strong>
+   can be accessed before the workshop through the links provided in the Schedule.
 </p>
 <p>If we can help making learning easier for
   you please
