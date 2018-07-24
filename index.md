@@ -527,7 +527,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     <a href="https://www.r-project.org">R</a> is a programming language
     that is especially powerful for data exploration, visualization, and
     statistical analysis. To interact with R, we use
-    <a href="https://www.rstudio.com/">RStudio</a>.
+    <a href="https://www.rstudio.com/">RStudio</a>. Once you finish installing
+	R and Rstudio please make sure you install the package tidyverse
+	<code>install.packages("tidyverse")</code>
   </p>
 
   <div class="row">
@@ -568,7 +570,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
         <a href="https://www.rstudio.com/products/rstudio/download/#download">RStudio IDE</a>.
       </p>
     </div>
-  <p>Once you finish installing R and Rstudio please make sure you install the package tidyverse
-	<code>install.packages("tidyverse")</code><p>
-</div> {% comment %} End of 'R' section. {% endcomment %}
+  </div>
+</div>{% comment %} End of 'R' section. {% endcomment %}
 
