@@ -233,7 +233,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endcomment %}
 {% if page.collaborative_notes %}
 <p id="collaborative_notes">
-  We will use this <a href="{{page.collaborative_notes}}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+  We will use this <a href="{{page.collaborative_notes}}" target="_blank">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 {% endif %}
 
@@ -569,7 +569,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
       </p>
     </div>
   </div>
-  <div><p>Once you finish installing R and Rstudio please make sure you install the package tidyverse
-	<code>install.packages("tidyverse")</code><p></div>
+  <p>Once you finish installing R and Rstudio please make sure you install the package tidyverse
+	<code>install.packages("tidyverse")</code><p>
 </div> {% comment %} End of 'R' section. {% endcomment %}
 
