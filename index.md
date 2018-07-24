@@ -118,8 +118,10 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <p id="requirements">
   <strong>Requirements:</strong> Participants are those selected to attend the CODATA-RDA School of Research Data Science foundation school.
 	Computers will be available for participants at the venue, but if you like you can bring your laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.). Please make sure you have adecuate administrative privileges on your device to be able to install software. The specific software that needs to be installed is listed
-  <a href="#setup">below</a>). Participants should be freindly and respectful to everyone, please see our code of conduct for details.
+  Windows, Mac or Linux operating system (not a tablet, Chromebook, etc.). Please make sure you have adecuate administrative privileges on your device to be able to install software. The specific software that needs to be installed is listed
+  <a href="#setup">below</a>). 
+</p>
+<p>Participants should be friendly and respectful to one another, please see our code of conduct for details.
   {% if page.carpentry == "swc" %}
   Software Carpentry's
   {% elsif page.carpentry == "dc" %}
